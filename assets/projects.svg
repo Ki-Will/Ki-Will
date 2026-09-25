@@ -80,7 +80,7 @@
     <ellipse class="aura-orb-b" cx="826" cy="214" rx="172" ry="115" fill="url(#gs-projects-ki-will-matrix-dark-orb-3)"/>
     <text x="30" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#00ff00">PROJECTS.LIST</text>
     <text x="180" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80" fill-opacity="0.8">./projects.sh --all</text>
-    <text x="830" y="40" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80" fill-opacity="0.7">2 pinned</text>
+    <text x="830" y="40" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80" fill-opacity="0.7">LATEST // 2</text>
     <line x1="28" y1="52" x2="832" y2="52" stroke="#00ff00" stroke-opacity="0.5" stroke-width="1.5"/>
     <a href="https://api.github.com/repos/Ki-Will/Ki-Will" target="_blank">
     <g opacity="0" transform="translate(28,88)">
@@ -90,13 +90,13 @@
     </rect>
     <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#00ff00" fill-opacity="0.06"/>
     <line x1="0" y1="30" x2="394" y2="30" stroke="#22c55e" stroke-opacity="0.5"/>
-    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#4ade80"><tspan fill="#00ff00">&#8226;</tspan> awesome-project</text>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#4ade80"><tspan fill="#00ff00">&#8226;</tspan> Ki-Will</text>
     <circle cx="378" cy="15" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#22c55e">awesome-project<tspan fill="#00ff00"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.65s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#22c55e">Ki-Will<tspan fill="#00ff00"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
     <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#4ade80">My profile</text>
     
     <rect x="18" y="112" width="86" height="18" rx="9" fill="#00ff00" fill-opacity="0.14" stroke="#00ff00" stroke-opacity="0.4"/><text x="61" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#00ff00">open-source</text>
-    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80"><tspan fill="#4b8cd2">&#9733;</tspan> 0<tspan fill="#4ade80" fill-opacity="0.7" dx="12">updated just now</tspan></text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80"><tspan fill="#4b8cd2">&#9733;</tspan> 1<tspan fill="#4ade80" fill-opacity="0.7" dx="12">updated 2026-09-25</tspan></text>
     <circle cx="348" cy="92" r="25" fill="none" stroke="#4ade80" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="125.66 31.42" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.55s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="125.66 31.42" dur="0.6s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#563d7c" stroke-width="8" stroke-dasharray="31.42 125.66" stroke-dashoffset="-125.66" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.73s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="31.42 125.66" dur="0.6s" begin="0.73s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#22c55e">80%</text>
     </g>
   </a><a href="https://api.github.com/repos/Ki-Will/Web3-1" target="_blank">
@@ -107,13 +107,12 @@
     </rect>
     <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#00ff00" fill-opacity="0.06"/>
     <line x1="0" y1="30" x2="394" y2="30" stroke="#22c55e" stroke-opacity="0.5"/>
-    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#4ade80"><tspan fill="#00ff00">&#8226;</tspan> toolkit</text>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#4ade80"><tspan fill="#00ff00">&#8226;</tspan> Web3-1</text>
     <circle cx="378" cy="15" r="4" fill="#4ade80" fill-opacity="0.5"/>
-    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#22c55e">toolkit<tspan fill="#00ff00"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.80s" repeatCount="indefinite"/></tspan></text>
-    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#4ade80">later </text>
-    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#4ade80">utilities.</text>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#22c55e">Web3-1<tspan fill="#00ff00"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#4ade80">later</text>
     
-    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80"><tspan fill="#1fff1f">&#9733;</tspan> 0<tspan fill="#4ade80" fill-opacity="0.7" dx="12">updated n/a</tspan></text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80"><tspan fill="#4b8cd2">&#9733;</tspan> 0<tspan fill="#4ade80" fill-opacity="0.7" dx="12">updated 2026-09-24</tspan></text>
     
     </g>
   </a>
