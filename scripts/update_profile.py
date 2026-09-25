@@ -85,6 +85,7 @@ write('system-scan.svg',s)
 
 # PROJECTS: update the two latest non-fork repositories while preserving the exported animation.
 s=(ASSETS/'projects.svg').read_text(encoding='utf-8')
+s=text_node(s,'2 pinned','LATEST // 2')
 
 def replace_first(pattern, replacement, source):
     return re.sub(pattern, replacement, source, count=1, flags=re.S)
