@@ -83,14 +83,56 @@ for old,new in [('Prince Bonheur',payload['name']),('@ki-will','@'+USER.lower())
     s=text_node(s,old,new)
 write('system-scan.svg',s)
 
-# PROJECTS: preserve the exact cards and animation, update names, copy, stars, and links.
+# PROJECTS: update the two latest non-fork repositories while preserving the exported animation.
 s=(ASSETS/'projects.svg').read_text(encoding='utf-8')
+
+def replace_first(pattern, replacement, source):
+    return re.sub(pattern, replacement, source, count=1, flags=re.S)
+
+def update_project_card(card, project, second=False):
+    # Repository link
+    card=re.sub(r'<a href="[^"]+" target="_blank">', lambda m: f'<a href="{project["url"]}" target="_blank">', card, count=1)
+    name=escape(project['name'])
+    desc=escape(project['description'])
+    stars=fmt(project['stargazers_count'])
+    # Header label
+    card=replace_first(r'(<text x="16" y="19\.5"[^>]*>).*?(</text>)',
+                       rf'\1<tspan fill="#00ff00">&#8226;</tspan> {name}\2', card)
+    # Main title, retaining the animated cursor
+    card=replace_first(r'(<text x="18" y="58"[^>]*>).*?(</text>)',
+                       rf'\1{name}<tspan fill="#00ff00"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></tspan>\2', card)
+    # Description: use up to two lines so long descriptions remain inside the card.
+    words=project['description'].split()
+    line1=escape(' '.join(words[:11]))
+    line2=escape(' '.join(words[11:22]))
+    card=replace_first(r'<text x="18" y="79"[^>]*>.*?</text>',
+                       f'<text x="18" y="79" font-family="ui-monospace,\'SF Mono\',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#4ade80">{line1}</text>', card)
+    if line2:
+        card=replace_first(r'<text x="18" y="95"[^>]*>.*?</text>',
+                           f'<text x="18" y="95" font-family="ui-monospace,\'SF Mono\',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#4ade80">{line2}</text>', card)
+    else:
+        card=re.sub(r'\s*<text x="18" y="95"[^>]*>.*?</text>', '', card, count=1, flags=re.S)
+    # Star count
+    card=replace_first(r'<text x="18" y="150"[^>]*>.*?</text>',
+                       f'<text x="18" y="150" font-family="ui-monospace,\'SF Mono\',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#4ade80"><tspan fill="#4b8cd2">&#9733;</tspan> {stars}<tspan fill="#4ade80" fill-opacity="0.7" dx="12">updated {project.get("pushed_at","")[:10]}</tspan></text>', card)
+    return card
+
 if projects:
-    p1=projects[0]; p2=projects[1] if len(projects)>1 else projects[0]
-    s=text_node(s,'awesome-project',p1['name']); s=text_node(s,'A standout open-source project.',p1['description']); s=text_node(s,'toolkit',p2['name']); s=text_node(s,'Reusable building blocks and',p2['description'])
-    s=s.replace('https://github.com/awesome-project',p1['url']).replace('https://github.com/toolkit',p2['url'])
-    # These strings are part of the card labels; limit replacements to text nodes.
-    s=text_node(s,'&#9733; 0updated just now',f"&#9733; {p1['stargazers_count']}updated just now"); s=text_node(s,'&#9733; 0updated n/a',f"&#9733; {p2['stargazers_count']}updated just now")
+    p1=projects[0]
+    p2=projects[1] if len(projects)>1 else projects[0]
+    cards=list(re.finditer(r'<a href="[^"]+" target="_blank">\s*<g opacity="0" transform="translate\([^)]*\)">.*?</g>\s*</a>', s, flags=re.S))
+    if len(cards)>=2:
+        first=cards[0]
+        second=cards[1]
+        updated1=update_project_card(first.group(0),p1)
+        # Re-find the second card after the first replacement is prepared.
+        s=s[:first.start()]+updated1+s[first.end():]
+        offset=len(updated1)-(first.end()-first.start())
+        second_start=second.start()+offset
+        second_end=second.end()+offset
+        updated2=update_project_card(s[second_start:second_end],p2,second=True)
+        s=s[:second_start]+updated2+s[second_end:]
+
 write('projects.svg',s)
 
 # STACK
