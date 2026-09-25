@@ -90,7 +90,7 @@ if projects:
     s=text_node(s,'awesome-project',p1['name']); s=text_node(s,'A standout open-source project.',p1['description']); s=text_node(s,'toolkit',p2['name']); s=text_node(s,'Reusable building blocks and',p2['description'])
     s=s.replace('https://github.com/awesome-project',p1['url']).replace('https://github.com/toolkit',p2['url'])
     # These strings are part of the card labels; limit replacements to text nodes.
-    s=text_node(s,'&#9733; 0updated just now',f"&#9733; {p1['stars']}updated just now"); s=text_node(s,'&#9733; 0updated n/a',f"&#9733; {p2['stars']}updated just now")
+    s=text_node(s,'&#9733; 0updated just now',f"&#9733; {p1['stargazers_count']}updated just now"); s=text_node(s,'&#9733; 0updated n/a',f"&#9733; {p2['stargazers_count']}updated just now")
 write('projects.svg',s)
 
 # STACK
