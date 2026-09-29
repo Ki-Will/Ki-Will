@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 116,
   "stars": 19,
-  "contributions": 2408,
-  "active_days": 127,
-  "commit_contributions": 1928,
+  "contributions": 2407,
+  "active_days": 126,
+  "commit_contributions": 1927,
   "issue_contributions": 0,
   "pr_contributions": 20,
-  "generated_at": "2026-09-28T11:47:08.230339+00:00",
+  "generated_at": "2026-09-29T11:25:10.548279+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -41,7 +41,7 @@
       "language": "Python",
       "stars": 1,
       "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-09-27T10:36:35Z"
+      "pushed_at": "2026-09-28T11:47:09Z"
     },
     {
       "name": "Web3-1",
@@ -53,11 +53,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-09-28",
-      "contributionCount": 1,
-      "contributionLevel": "FIRST_QUARTILE"
-    },
     {
       "date": "2025-09-29",
       "contributionCount": 1,
@@ -1880,6 +1875,11 @@
     },
     {
       "date": "2026-09-28",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-09-29",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
