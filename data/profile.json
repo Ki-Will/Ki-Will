@@ -4,14 +4,14 @@
   "bio": "Software Eng. , @Blinktechnologies-company ",
   "followers": 7,
   "following": 13,
-  "public_repos": 118,
+  "public_repos": 119,
   "stars": 19,
-  "contributions": 2429,
+  "contributions": 2426,
   "active_days": 131,
   "commit_contributions": 1931,
   "issue_contributions": 0,
   "pr_contributions": 20,
-  "generated_at": "2026-10-07T11:50:46.432963+00:00",
+  "generated_at": "2026-10-08T12:05:53.801633+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,12 +36,12 @@
   ],
   "projects": [
     {
-      "name": "Klenzo-backend",
-      "description": "This is a simple thing just to be updated later",
-      "language": "TypeScript",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Klenzo-backend",
-      "pushed_at": "2026-10-06T19:46:42Z"
+      "name": "python-proj",
+      "description": "Simple package usage in python ",
+      "language": "Python",
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/python-proj",
+      "pushed_at": "2026-10-08T05:30:41Z"
     },
     {
       "name": "Ki-Will",
@@ -49,15 +49,10 @@
       "language": "Python",
       "stars": 1,
       "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-10-06T12:05:19Z"
+      "pushed_at": "2026-10-07T11:50:48Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-10-07",
-      "contributionCount": 5,
-      "contributionLevel": "FIRST_QUARTILE"
-    },
     {
       "date": "2025-10-08",
       "contributionCount": 1,
@@ -1145,7 +1140,7 @@
     },
     {
       "date": "2026-05-13",
-      "contributionCount": 73,
+      "contributionCount": 72,
       "contributionLevel": "THIRD_QUARTILE"
     },
     {
@@ -1880,7 +1875,12 @@
     },
     {
       "date": "2026-10-07",
-      "contributionCount": 1,
+      "contributionCount": 2,
+      "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-10-08",
+      "contributionCount": 2,
       "contributionLevel": "FIRST_QUARTILE"
     }
   ]
