@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 123,
   "stars": 19,
-  "contributions": 2440,
+  "contributions": 2443,
   "active_days": 130,
-  "commit_contributions": 1950,
+  "commit_contributions": 1952,
   "issue_contributions": 0,
   "pr_contributions": 20,
-  "generated_at": "2026-10-17T09:28:49.672751+00:00",
+  "generated_at": "2026-10-18T09:42:03.864984+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,33 +36,23 @@
   ],
   "projects": [
     {
-      "name": "Ki-Will",
-      "description": "My profile",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-10-16T09:55:11Z"
-    },
-    {
       "name": "Klenzo-backend",
       "description": "This is a simple thing just to be updated later",
       "language": "TypeScript",
       "stars": 1,
       "url": "https://github.com/Ki-Will/Klenzo-backend",
-      "pushed_at": "2026-10-15T19:40:34Z"
+      "pushed_at": "2026-10-17T19:10:26Z"
+    },
+    {
+      "name": "Klenzo-frontend",
+      "description": "do be dealt with later",
+      "language": "code",
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/Klenzo-frontend",
+      "pushed_at": "2026-10-17T19:10:13Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-10-17",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
-    {
-      "date": "2025-10-18",
-      "contributionCount": 3,
-      "contributionLevel": "FIRST_QUARTILE"
-    },
     {
       "date": "2025-10-19",
       "contributionCount": 0,
@@ -1880,6 +1870,11 @@
     },
     {
       "date": "2026-10-17",
+      "contributionCount": 3,
+      "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-10-18",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
