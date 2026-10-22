@@ -4,14 +4,14 @@
   "bio": "Software Eng. , @Blinktechnologies-company ",
   "followers": 6,
   "following": 13,
-  "public_repos": 126,
+  "public_repos": 127,
   "stars": 19,
-  "contributions": 2465,
+  "contributions": 2484,
   "active_days": 130,
-  "commit_contributions": 1970,
+  "commit_contributions": 1989,
   "issue_contributions": 0,
   "pr_contributions": 20,
-  "generated_at": "2026-10-21T10:17:15.306727+00:00",
+  "generated_at": "2026-10-22T10:18:00.886362+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,28 +36,23 @@
   ],
   "projects": [
     {
-      "name": "valcalc",
-      "description": "simple calculator and validator package",
+      "name": "whole-body-tracking",
+      "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
       "language": "Python",
       "stars": 0,
-      "url": "https://github.com/Ki-Will/valcalc",
-      "pushed_at": "2026-10-20T19:12:09Z"
+      "url": "https://github.com/Ki-Will/whole-body-tracking",
+      "pushed_at": "2026-10-22T09:45:17Z"
     },
     {
-      "name": "shop_invtry",
-      "description": "simple django project for a simple shop inventory",
+      "name": "Ki-Will",
+      "description": "My profile",
       "language": "Python",
-      "stars": 0,
-      "url": "https://github.com/Ki-Will/shop_invtry",
-      "pushed_at": "2026-10-20T19:12:06Z"
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/Ki-Will",
+      "pushed_at": "2026-10-21T10:17:16Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-10-21",
-      "contributionCount": 2,
-      "contributionLevel": "FIRST_QUARTILE"
-    },
     {
       "date": "2025-10-22",
       "contributionCount": 0,
@@ -1110,7 +1105,7 @@
     },
     {
       "date": "2026-05-20",
-      "contributionCount": 2,
+      "contributionCount": 1,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1882,6 +1877,11 @@
       "date": "2026-10-21",
       "contributionCount": 0,
       "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-10-22",
+      "contributionCount": 22,
+      "contributionLevel": "FIRST_QUARTILE"
     }
   ]
 }
