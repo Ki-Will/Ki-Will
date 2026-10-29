@@ -11,7 +11,7 @@
   "commit_contributions": 2031,
   "issue_contributions": 0,
   "pr_contributions": 24,
-  "generated_at": "2026-10-28T11:25:11.395481+00:00",
+  "generated_at": "2026-10-29T11:35:43.372787+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,28 +36,23 @@
   ],
   "projects": [
     {
+      "name": "Ki-Will",
+      "description": "My profile",
+      "language": "Python",
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/Ki-Will",
+      "pushed_at": "2026-10-28T11:25:12Z"
+    },
+    {
       "name": "vehicle_ml_dashboard",
       "description": "this is a simple dashboard shocasing use of pandas and django",
       "language": "Python",
       "stars": 0,
       "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
       "pushed_at": "2026-10-27T18:35:32Z"
-    },
-    {
-      "name": "Ki-Will",
-      "description": "My profile",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-10-27T10:40:56Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-10-28",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-10-29",
       "contributionCount": 0,
@@ -1880,6 +1875,11 @@
     },
     {
       "date": "2026-10-28",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-10-29",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
