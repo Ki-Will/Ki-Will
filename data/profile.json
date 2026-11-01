@@ -7,11 +7,11 @@
   "public_repos": 127,
   "stars": 20,
   "contributions": 2533,
-  "active_days": 134,
+  "active_days": 133,
   "commit_contributions": 2031,
   "issue_contributions": 0,
   "pr_contributions": 24,
-  "generated_at": "2026-10-31T10:58:19.120596+00:00",
+  "generated_at": "2026-11-01T11:53:46.654421+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -41,7 +41,7 @@
       "language": "Python",
       "stars": 1,
       "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-10-30T11:27:49Z"
+      "pushed_at": "2026-10-31T10:58:20Z"
     },
     {
       "name": "vehicle_ml_dashboard",
@@ -53,16 +53,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-10-31",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
-    {
-      "date": "2025-11-01",
-      "contributionCount": 6,
-      "contributionLevel": "FIRST_QUARTILE"
-    },
     {
       "date": "2025-11-02",
       "contributionCount": 0,
@@ -1880,6 +1870,11 @@
     },
     {
       "date": "2026-10-31",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-11-01",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
