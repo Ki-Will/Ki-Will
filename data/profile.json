@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 127,
   "stars": 20,
-  "contributions": 2533,
+  "contributions": 2547,
   "active_days": 133,
-  "commit_contributions": 2031,
+  "commit_contributions": 2037,
   "issue_contributions": 0,
   "pr_contributions": 24,
-  "generated_at": "2026-11-01T11:53:46.654421+00:00",
+  "generated_at": "2026-11-02T13:37:55.503679+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,12 +36,12 @@
   ],
   "projects": [
     {
-      "name": "Ki-Will",
-      "description": "My profile",
+      "name": "whole-body-tracking",
+      "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
       "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-10-31T10:58:20Z"
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/whole-body-tracking",
+      "pushed_at": "2026-11-02T03:57:19Z"
     },
     {
       "name": "vehicle_ml_dashboard",
@@ -49,7 +49,7 @@
       "language": "Python",
       "stars": 0,
       "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
-      "pushed_at": "2026-10-27T18:35:32Z"
+      "pushed_at": "2026-11-02T03:57:09Z"
     }
   ],
   "days": [
@@ -571,7 +571,7 @@
     {
       "date": "2026-02-13",
       "contributionCount": 85,
-      "contributionLevel": "THIRD_QUARTILE"
+      "contributionLevel": "FOURTH_QUARTILE"
     },
     {
       "date": "2026-02-14",
@@ -1031,7 +1031,7 @@
     {
       "date": "2026-05-16",
       "contributionCount": 56,
-      "contributionLevel": "SECOND_QUARTILE"
+      "contributionLevel": "THIRD_QUARTILE"
     },
     {
       "date": "2026-05-17",
@@ -1081,7 +1081,7 @@
     {
       "date": "2026-05-26",
       "contributionCount": 56,
-      "contributionLevel": "SECOND_QUARTILE"
+      "contributionLevel": "THIRD_QUARTILE"
     },
     {
       "date": "2026-05-27",
@@ -1605,7 +1605,7 @@
     },
     {
       "date": "2026-09-08",
-      "contributionCount": 23,
+      "contributionCount": 24,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1621,7 +1621,7 @@
     {
       "date": "2026-09-11",
       "contributionCount": 58,
-      "contributionLevel": "SECOND_QUARTILE"
+      "contributionLevel": "THIRD_QUARTILE"
     },
     {
       "date": "2026-09-12",
@@ -1655,7 +1655,7 @@
     },
     {
       "date": "2026-09-18",
-      "contributionCount": 63,
+      "contributionCount": 64,
       "contributionLevel": "THIRD_QUARTILE"
     },
     {
@@ -1680,7 +1680,7 @@
     },
     {
       "date": "2026-09-23",
-      "contributionCount": 6,
+      "contributionCount": 7,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1710,7 +1710,7 @@
     },
     {
       "date": "2026-09-29",
-      "contributionCount": 9,
+      "contributionCount": 12,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1720,7 +1720,7 @@
     },
     {
       "date": "2026-10-01",
-      "contributionCount": 5,
+      "contributionCount": 7,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1775,7 +1775,7 @@
     },
     {
       "date": "2026-10-12",
-      "contributionCount": 5,
+      "contributionCount": 6,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1785,7 +1785,7 @@
     },
     {
       "date": "2026-10-14",
-      "contributionCount": 12,
+      "contributionCount": 13,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1800,7 +1800,7 @@
     },
     {
       "date": "2026-10-17",
-      "contributionCount": 6,
+      "contributionCount": 8,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1815,7 +1815,7 @@
     },
     {
       "date": "2026-10-20",
-      "contributionCount": 8,
+      "contributionCount": 11,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1825,7 +1825,7 @@
     },
     {
       "date": "2026-10-22",
-      "contributionCount": 35,
+      "contributionCount": 36,
       "contributionLevel": "SECOND_QUARTILE"
     },
     {
@@ -1840,17 +1840,17 @@
     },
     {
       "date": "2026-10-25",
-      "contributionCount": 17,
+      "contributionCount": 18,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
       "date": "2026-10-26",
-      "contributionCount": 4,
+      "contributionCount": 5,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
       "date": "2026-10-27",
-      "contributionCount": 6,
+      "contributionCount": 8,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1875,6 +1875,11 @@
     },
     {
       "date": "2026-11-01",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-11-02",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
