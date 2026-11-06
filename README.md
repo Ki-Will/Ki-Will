@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=44" alt="Prince Bonheur GitHub profile" width="860">
+<img src="./assets/hero.svg?v=45" alt="Prince Bonheur GitHub profile" width="860">
 
-<img src="./assets/system-scan.svg?v=44" alt="Live GitHub profile system scan" width="1180">
+<img src="./assets/system-scan.svg?v=45" alt="Live GitHub profile system scan" width="1180">
 
-<img src="./assets/projects.svg?v=44" alt="Live projects" width="860">
+<img src="./assets/projects.svg?v=45" alt="Live projects" width="860">
 
-<img src="./assets/stack.svg?v=44" alt="Live language stack" width="860">
+<img src="./assets/stack.svg?v=45" alt="Live language stack" width="860">
 
-<img src="./assets/heatmap.svg?v=44" alt="Live contribution activity" width="860">
+<img src="./assets/heatmap.svg?v=45" alt="Live contribution activity" width="860">
 
 </div>
