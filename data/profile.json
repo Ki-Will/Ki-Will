@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 127,
   "stars": 20,
-  "contributions": 2547,
+  "contributions": 2567,
   "active_days": 133,
-  "commit_contributions": 2037,
+  "commit_contributions": 2050,
   "issue_contributions": 0,
   "pr_contributions": 24,
-  "generated_at": "2026-11-07T11:47:31.146549+00:00",
+  "generated_at": "2026-11-08T11:59:27.750120+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,33 +36,23 @@
   ],
   "projects": [
     {
-      "name": "Ki-Will",
-      "description": "My profile",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-11-06T13:01:51Z"
-    },
-    {
       "name": "tekana-project",
       "description": "This is a Repo for Tekana  backend a system designed to improve security thing work f",
       "language": "TypeScript",
       "stars": 1,
       "url": "https://github.com/Ki-Will/tekana-project",
-      "pushed_at": "2026-11-03T09:27:55Z"
+      "pushed_at": "2026-11-07T16:12:01Z"
+    },
+    {
+      "name": "whole-body-tracking",
+      "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
+      "language": "Python",
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/whole-body-tracking",
+      "pushed_at": "2026-11-07T12:04:59Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-07",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
-    {
-      "date": "2025-11-08",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-09",
       "contributionCount": 0,
@@ -1580,7 +1570,7 @@
     },
     {
       "date": "2026-09-08",
-      "contributionCount": 24,
+      "contributionCount": 25,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1630,7 +1620,7 @@
     },
     {
       "date": "2026-09-18",
-      "contributionCount": 64,
+      "contributionCount": 65,
       "contributionLevel": "THIRD_QUARTILE"
     },
     {
@@ -1655,7 +1645,7 @@
     },
     {
       "date": "2026-09-23",
-      "contributionCount": 7,
+      "contributionCount": 8,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1685,7 +1675,7 @@
     },
     {
       "date": "2026-09-29",
-      "contributionCount": 12,
+      "contributionCount": 15,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1695,7 +1685,7 @@
     },
     {
       "date": "2026-10-01",
-      "contributionCount": 7,
+      "contributionCount": 9,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1750,7 +1740,7 @@
     },
     {
       "date": "2026-10-12",
-      "contributionCount": 6,
+      "contributionCount": 7,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1760,7 +1750,7 @@
     },
     {
       "date": "2026-10-14",
-      "contributionCount": 13,
+      "contributionCount": 14,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1775,7 +1765,7 @@
     },
     {
       "date": "2026-10-17",
-      "contributionCount": 8,
+      "contributionCount": 11,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1790,7 +1780,7 @@
     },
     {
       "date": "2026-10-20",
-      "contributionCount": 11,
+      "contributionCount": 14,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1800,7 +1790,7 @@
     },
     {
       "date": "2026-10-22",
-      "contributionCount": 36,
+      "contributionCount": 37,
       "contributionLevel": "SECOND_QUARTILE"
     },
     {
@@ -1815,7 +1805,7 @@
     },
     {
       "date": "2026-10-25",
-      "contributionCount": 18,
+      "contributionCount": 19,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1825,7 +1815,7 @@
     },
     {
       "date": "2026-10-27",
-      "contributionCount": 8,
+      "contributionCount": 10,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1880,6 +1870,11 @@
     },
     {
       "date": "2026-11-07",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-11-08",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
