@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 127,
   "stars": 20,
-  "contributions": 2567,
-  "active_days": 133,
-  "commit_contributions": 2050,
+  "contributions": 2598,
+  "active_days": 134,
+  "commit_contributions": 2059,
   "issue_contributions": 0,
   "pr_contributions": 24,
-  "generated_at": "2026-11-08T11:59:27.750120+00:00",
+  "generated_at": "2026-11-09T14:00:49.026742+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,20 +36,20 @@
   ],
   "projects": [
     {
-      "name": "tekana-project",
-      "description": "This is a Repo for Tekana  backend a system designed to improve security thing work f",
-      "language": "TypeScript",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/tekana-project",
-      "pushed_at": "2026-11-07T16:12:01Z"
-    },
-    {
       "name": "whole-body-tracking",
       "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
       "language": "Python",
       "stars": 0,
       "url": "https://github.com/Ki-Will/whole-body-tracking",
-      "pushed_at": "2026-11-07T12:04:59Z"
+      "pushed_at": "2026-11-09T12:20:55Z"
+    },
+    {
+      "name": "vehicle_ml_dashboard",
+      "description": "this is a simple dashboard shocasing use of pandas and django",
+      "language": "Python",
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
+      "pushed_at": "2026-11-09T12:20:46Z"
     }
   ],
   "days": [
@@ -1740,7 +1740,7 @@
     },
     {
       "date": "2026-10-12",
-      "contributionCount": 7,
+      "contributionCount": 8,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1750,7 +1750,7 @@
     },
     {
       "date": "2026-10-14",
-      "contributionCount": 14,
+      "contributionCount": 15,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1765,7 +1765,7 @@
     },
     {
       "date": "2026-10-17",
-      "contributionCount": 11,
+      "contributionCount": 14,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1780,7 +1780,7 @@
     },
     {
       "date": "2026-10-20",
-      "contributionCount": 14,
+      "contributionCount": 17,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1790,7 +1790,7 @@
     },
     {
       "date": "2026-10-22",
-      "contributionCount": 37,
+      "contributionCount": 38,
       "contributionLevel": "SECOND_QUARTILE"
     },
     {
@@ -1805,7 +1805,7 @@
     },
     {
       "date": "2026-10-25",
-      "contributionCount": 19,
+      "contributionCount": 20,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1815,7 +1815,7 @@
     },
     {
       "date": "2026-10-27",
-      "contributionCount": 10,
+      "contributionCount": 11,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1877,6 +1877,11 @@
       "date": "2026-11-08",
       "contributionCount": 0,
       "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-11-09",
+      "contributionCount": 20,
+      "contributionLevel": "FIRST_QUARTILE"
     }
   ]
 }
