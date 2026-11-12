@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 127,
   "stars": 20,
-  "contributions": 2782,
-  "active_days": 136,
+  "contributions": 2783,
+  "active_days": 137,
   "commit_contributions": 2059,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-11T12:47:56.938902+00:00",
+  "generated_at": "2026-11-12T13:50:54.841118+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,28 +36,23 @@
   ],
   "projects": [
     {
+      "name": "Ki-Will",
+      "description": "My profile",
+      "language": "Python",
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/Ki-Will",
+      "pushed_at": "2026-11-11T12:47:58Z"
+    },
+    {
       "name": "whole-body-tracking",
       "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
       "language": "Python",
       "stars": 0,
       "url": "https://github.com/Ki-Will/whole-body-tracking",
       "pushed_at": "2026-11-11T09:24:51Z"
-    },
-    {
-      "name": "vehicle_ml_dashboard",
-      "description": "this is a simple dashboard shocasing use of pandas and django",
-      "language": "Python",
-      "stars": 0,
-      "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
-      "pushed_at": "2026-11-11T09:24:47Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-11",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-12",
       "contributionCount": 0,
@@ -1882,6 +1877,11 @@
       "date": "2026-11-11",
       "contributionCount": 172,
       "contributionLevel": "FOURTH_QUARTILE"
+    },
+    {
+      "date": "2026-11-12",
+      "contributionCount": 1,
+      "contributionLevel": "FIRST_QUARTILE"
     }
   ]
 }
