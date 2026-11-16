@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 128,
   "stars": 20,
-  "contributions": 2820,
-  "active_days": 139,
-  "commit_contributions": 2059,
+  "contributions": 2845,
+  "active_days": 140,
+  "commit_contributions": 2068,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-15T12:49:35.961023+00:00",
+  "generated_at": "2026-11-16T13:46:25.754378+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -30,26 +30,26 @@
       "percent": 4
     },
     {
-      "name": "Ruby",
+      "name": "Rust",
       "percent": 2
     }
   ],
   "projects": [
-    {
-      "name": "Ki-Will",
-      "description": "My profile",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-11-14T12:17:22Z"
-    },
     {
       "name": "whole-body-tracking",
       "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
       "language": "Python",
       "stars": 0,
       "url": "https://github.com/Ki-Will/whole-body-tracking",
-      "pushed_at": "2026-11-11T09:24:51Z"
+      "pushed_at": "2026-11-15T13:24:15Z"
+    },
+    {
+      "name": "vehicle_ml_dashboard",
+      "description": "this is a simple dashboard shocasing use of pandas and django",
+      "language": "Python",
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
+      "pushed_at": "2026-11-15T13:23:43Z"
     }
   ],
   "days": [
@@ -1705,7 +1705,7 @@
     },
     {
       "date": "2026-10-12",
-      "contributionCount": 8,
+      "contributionCount": 9,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1715,7 +1715,7 @@
     },
     {
       "date": "2026-10-14",
-      "contributionCount": 15,
+      "contributionCount": 16,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1730,7 +1730,7 @@
     },
     {
       "date": "2026-10-17",
-      "contributionCount": 14,
+      "contributionCount": 17,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1745,7 +1745,7 @@
     },
     {
       "date": "2026-10-20",
-      "contributionCount": 17,
+      "contributionCount": 20,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1755,7 +1755,7 @@
     },
     {
       "date": "2026-10-22",
-      "contributionCount": 38,
+      "contributionCount": 39,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1770,7 +1770,7 @@
     },
     {
       "date": "2026-10-25",
-      "contributionCount": 20,
+      "contributionCount": 21,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1780,7 +1780,7 @@
     },
     {
       "date": "2026-10-27",
-      "contributionCount": 11,
+      "contributionCount": 12,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1850,7 +1850,7 @@
     },
     {
       "date": "2026-11-10",
-      "contributionCount": 3,
+      "contributionCount": 4,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1860,7 +1860,7 @@
     },
     {
       "date": "2026-11-12",
-      "contributionCount": 36,
+      "contributionCount": 37,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1875,7 +1875,12 @@
     },
     {
       "date": "2026-11-15",
-      "contributionCount": 1,
+      "contributionCount": 3,
+      "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-11-16",
+      "contributionCount": 10,
       "contributionLevel": "FIRST_QUARTILE"
     }
   ]
