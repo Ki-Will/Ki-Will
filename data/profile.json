@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 128,
   "stars": 20,
-  "contributions": 2847,
+  "contributions": 2848,
   "active_days": 141,
   "commit_contributions": 2068,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-17T14:37:37.650844+00:00",
+  "generated_at": "2026-11-18T14:14:16.046745+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,28 +36,23 @@
   ],
   "projects": [
     {
-      "name": "Ki-Will",
-      "description": "My profile",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-11-16T13:46:28Z"
+      "name": "starting-mobile",
+      "description": "mobile development",
+      "language": "TypeScript",
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/starting-mobile",
+      "pushed_at": "2026-11-17T19:13:10Z"
     },
     {
-      "name": "whole-body-tracking",
-      "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
-      "language": "Python",
+      "name": "Duka-Commerce",
+      "description": "East African commerce platform featuring transactional checkout, inventory management",
+      "language": "TypeScript",
       "stars": 0,
-      "url": "https://github.com/Ki-Will/whole-body-tracking",
-      "pushed_at": "2026-11-15T13:24:15Z"
+      "url": "https://github.com/Ki-Will/Duka-Commerce",
+      "pushed_at": "2026-11-17T19:10:11Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-17",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-18",
       "contributionCount": 1,
@@ -1880,8 +1875,13 @@
     },
     {
       "date": "2026-11-17",
-      "contributionCount": 2,
+      "contributionCount": 3,
       "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-11-18",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
     }
   ]
 }
