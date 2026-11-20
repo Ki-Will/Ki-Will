@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 128,
   "stars": 20,
-  "contributions": 2865,
+  "contributions": 2866,
   "active_days": 140,
   "commit_contributions": 2076,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-19T14:29:57.633271+00:00",
+  "generated_at": "2026-11-20T14:07:55.856636+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,28 +36,23 @@
   ],
   "projects": [
     {
+      "name": "Ki-Will",
+      "description": "My profile",
+      "language": "Python",
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/Ki-Will",
+      "pushed_at": "2026-11-19T14:29:59Z"
+    },
+    {
       "name": "Web3-1",
       "description": "later ",
       "language": "JavaScript",
       "stars": 0,
       "url": "https://github.com/Ki-Will/Web3-1",
       "pushed_at": "2026-11-18T23:24:37Z"
-    },
-    {
-      "name": "Social-media-app",
-      "description": "Simple social media app where you can send messages, post content and videos, create ",
-      "language": "TypeScript",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Social-media-app",
-      "pushed_at": "2026-11-18T23:12:44Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-19",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-20",
       "contributionCount": 0,
@@ -1870,7 +1865,7 @@
     },
     {
       "date": "2026-11-17",
-      "contributionCount": 4,
+      "contributionCount": 5,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1880,6 +1875,11 @@
     },
     {
       "date": "2026-11-19",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-11-20",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
