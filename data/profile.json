@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 128,
   "stars": 20,
-  "contributions": 2866,
+  "contributions": 2875,
   "active_days": 140,
-  "commit_contributions": 2076,
+  "commit_contributions": 2082,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-21T13:33:15.467604+00:00",
+  "generated_at": "2026-11-22T13:26:18.124611+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,33 +36,23 @@
   ],
   "projects": [
     {
+      "name": "mobile-modal",
+      "description": "usage of modal ",
+      "language": "TypeScript",
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/mobile-modal",
+      "pushed_at": "2026-11-22T01:19:44Z"
+    },
+    {
       "name": "tekana-project",
       "description": "This is a Repo for Tekana  backend a system designed to improve security thing work f",
       "language": "TypeScript",
       "stars": 1,
       "url": "https://github.com/Ki-Will/tekana-project",
-      "pushed_at": "2026-11-21T06:13:52Z"
-    },
-    {
-      "name": "Ki-Will",
-      "description": "My profile",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-11-20T14:07:57Z"
+      "pushed_at": "2026-11-22T01:17:28Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-21",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
-    {
-      "date": "2025-11-22",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-23",
       "contributionCount": 0,
@@ -1720,7 +1710,7 @@
     },
     {
       "date": "2026-10-20",
-      "contributionCount": 20,
+      "contributionCount": 23,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1730,7 +1720,7 @@
     },
     {
       "date": "2026-10-22",
-      "contributionCount": 39,
+      "contributionCount": 40,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1745,7 +1735,7 @@
     },
     {
       "date": "2026-10-25",
-      "contributionCount": 21,
+      "contributionCount": 22,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1755,7 +1745,7 @@
     },
     {
       "date": "2026-10-27",
-      "contributionCount": 12,
+      "contributionCount": 13,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1825,7 +1815,7 @@
     },
     {
       "date": "2026-11-10",
-      "contributionCount": 4,
+      "contributionCount": 5,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1835,7 +1825,7 @@
     },
     {
       "date": "2026-11-12",
-      "contributionCount": 37,
+      "contributionCount": 38,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1855,7 +1845,7 @@
     },
     {
       "date": "2026-11-16",
-      "contributionCount": 10,
+      "contributionCount": 11,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1880,6 +1870,11 @@
     },
     {
       "date": "2026-11-21",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
+    },
+    {
+      "date": "2026-11-22",
       "contributionCount": 0,
       "contributionLevel": "NONE"
     }
