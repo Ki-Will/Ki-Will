@@ -4,14 +4,14 @@
   "bio": "Software Eng. , @Blinktechnologies-company ",
   "followers": 7,
   "following": 13,
-  "public_repos": 128,
+  "public_repos": 129,
   "stars": 20,
-  "contributions": 2878,
-  "active_days": 141,
-  "commit_contributions": 2083,
+  "contributions": 2896,
+  "active_days": 144,
+  "commit_contributions": 2092,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-24T15:58:40.424879+00:00",
+  "generated_at": "2026-11-26T15:27:02.044796+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,33 +36,23 @@
   ],
   "projects": [
     {
-      "name": "Ki-Will",
-      "description": "My profile",
+      "name": "whole-body-tracking",
+      "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
       "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/Ki-Will/Ki-Will",
-      "pushed_at": "2026-11-23T16:08:29Z"
+      "stars": 0,
+      "url": "https://github.com/Ki-Will/whole-body-tracking",
+      "pushed_at": "2026-11-24T20:23:21Z"
     },
     {
-      "name": "mobile-modal",
-      "description": "usage of modal ",
-      "language": "TypeScript",
+      "name": "vehicle_ml_dashboard",
+      "description": "this is a simple dashboard shocasing use of pandas and django",
+      "language": "Python",
       "stars": 0,
-      "url": "https://github.com/Ki-Will/mobile-modal",
-      "pushed_at": "2026-11-22T01:19:44Z"
+      "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
+      "pushed_at": "2026-11-24T20:22:43Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-24",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
-    {
-      "date": "2025-11-25",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-26",
       "contributionCount": 0,
@@ -950,7 +940,7 @@
     },
     {
       "date": "2026-05-22",
-      "contributionCount": 4,
+      "contributionCount": 3,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1665,7 +1655,7 @@
     },
     {
       "date": "2026-10-12",
-      "contributionCount": 9,
+      "contributionCount": 10,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1675,7 +1665,7 @@
     },
     {
       "date": "2026-10-14",
-      "contributionCount": 16,
+      "contributionCount": 17,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1690,7 +1680,7 @@
     },
     {
       "date": "2026-10-17",
-      "contributionCount": 17,
+      "contributionCount": 19,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1705,7 +1695,7 @@
     },
     {
       "date": "2026-10-20",
-      "contributionCount": 23,
+      "contributionCount": 26,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1715,7 +1705,7 @@
     },
     {
       "date": "2026-10-22",
-      "contributionCount": 40,
+      "contributionCount": 41,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1730,7 +1720,7 @@
     },
     {
       "date": "2026-10-25",
-      "contributionCount": 22,
+      "contributionCount": 23,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1740,7 +1730,7 @@
     },
     {
       "date": "2026-10-27",
-      "contributionCount": 13,
+      "contributionCount": 14,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1810,7 +1800,7 @@
     },
     {
       "date": "2026-11-10",
-      "contributionCount": 5,
+      "contributionCount": 6,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1820,7 +1810,7 @@
     },
     {
       "date": "2026-11-12",
-      "contributionCount": 38,
+      "contributionCount": 39,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1840,7 +1830,7 @@
     },
     {
       "date": "2026-11-16",
-      "contributionCount": 11,
+      "contributionCount": 12,
       "contributionLevel": "FIRST_QUARTILE"
     },
     {
@@ -1880,8 +1870,18 @@
     },
     {
       "date": "2026-11-24",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
+      "contributionCount": 2,
+      "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-11-25",
+      "contributionCount": 2,
+      "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-11-26",
+      "contributionCount": 2,
+      "contributionLevel": "FIRST_QUARTILE"
     }
   ]
 }
