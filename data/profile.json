@@ -6,12 +6,12 @@
   "following": 13,
   "public_repos": 129,
   "stars": 20,
-  "contributions": 2896,
+  "contributions": 2897,
   "active_days": 144,
   "commit_contributions": 2092,
   "issue_contributions": 0,
   "pr_contributions": 74,
-  "generated_at": "2026-11-26T15:27:02.044796+00:00",
+  "generated_at": "2026-11-27T15:15:51.878802+00:00",
   "stack": [
     {
       "name": "TypeScript",
@@ -36,28 +36,23 @@
   ],
   "projects": [
     {
-      "name": "whole-body-tracking",
-      "description": "simple whole body tracking that allows trackng the whole body even if the face is hid",
-      "language": "Python",
-      "stars": 0,
-      "url": "https://github.com/Ki-Will/whole-body-tracking",
-      "pushed_at": "2026-11-24T20:23:21Z"
+      "name": "tekana-project",
+      "description": "This is a Repo for Tekana  backend a system designed to improve security thing work f",
+      "language": "TypeScript",
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/tekana-project",
+      "pushed_at": "2026-11-27T14:01:34Z"
     },
     {
-      "name": "vehicle_ml_dashboard",
-      "description": "this is a simple dashboard shocasing use of pandas and django",
+      "name": "Ki-Will",
+      "description": "My profile",
       "language": "Python",
-      "stars": 0,
-      "url": "https://github.com/Ki-Will/vehicle_ml_dashboard",
-      "pushed_at": "2026-11-24T20:22:43Z"
+      "stars": 1,
+      "url": "https://github.com/Ki-Will/Ki-Will",
+      "pushed_at": "2026-11-26T15:27:04Z"
     }
   ],
   "days": [
-    {
-      "date": "2025-11-26",
-      "contributionCount": 0,
-      "contributionLevel": "NONE"
-    },
     {
       "date": "2025-11-27",
       "contributionCount": 0,
@@ -1880,8 +1875,13 @@
     },
     {
       "date": "2026-11-26",
-      "contributionCount": 2,
+      "contributionCount": 3,
       "contributionLevel": "FIRST_QUARTILE"
+    },
+    {
+      "date": "2026-11-27",
+      "contributionCount": 0,
+      "contributionLevel": "NONE"
     }
   ]
 }
